@@ -2,6 +2,6 @@
 
 __About me:__
 
-👨‍🎓 Studying at Epitech Technology
-🌐 English & French
+👨‍🎓 Studying at Epitech Technology <br />
+🌐 English & French <br />
 👨‍💻 18 year old
