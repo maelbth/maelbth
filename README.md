@@ -9,6 +9,8 @@
 
 - 🌐 English & French
 
+- 📄 Know about my [experiences](https://www.linkedin.com/in/maël-bertocchi/)
+
 - 📫 Reach me **mael.bertocchi@epitech.eu**
 
 <h3 align="left">Languages and tools :</h3>
